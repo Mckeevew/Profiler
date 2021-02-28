@@ -1,6 +1,5 @@
 # Profiler
-
-Simple logging library I made for myself. Will print to the consol and a results.log file. This logger attempts to replicate the style and syntax of std::out.
+Simple Profiler. Will output json files that can be read by chrome tracing. Can be found in chrome web browser at chrome://tracing.
 
 # Usage
 
